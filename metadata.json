@@ -1,0 +1,7 @@
+{
+  "name": "Walmart US ERP 销售数据分析系统",
+  "description": "专业的 Walmart US ERP 销售数据分析工作台，具备多Sheet自动识别、数据清洗、线上SKU与内部SKU分离、产品映射、销售额修正、多维度分析与AI经营诊断功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
